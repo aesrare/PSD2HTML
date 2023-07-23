@@ -320,7 +320,7 @@ h1, h2, h3, h4, h5, h6 {
     transform: translate3d(0, -50%, 0);
 
     transition: opacity .2s linear;
-}
+} 
 
 .statistics {
     background-color: #95e1d3; 
@@ -364,6 +364,11 @@ h1, h2, h3, h4, h5, h6 {
 .services__item {
     flex: 1 1 0;
 }
+
+
+
+
+
 
 
 
